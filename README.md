@@ -1,1 +1,1 @@
-# Python_Projects
+# This folder is a collection of different kinds of Python Projects
