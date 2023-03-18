@@ -1,0 +1,1 @@
+#This program figures out the winner from different bidders for a secret auction by getting the bidder name their bid amount and storing it in a dictionary.
