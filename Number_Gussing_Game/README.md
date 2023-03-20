@@ -1,0 +1,1 @@
+#This program is a very simple Number gussing game. The computer asks the user to guess a number between 1 and 100 and it will compare it with a random number generated. It will also ask the user to select between two level fo difficulties.
