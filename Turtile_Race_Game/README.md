@@ -1,0 +1,1 @@
+# This is a simple graphcal race game between six turtles that have distinct color. The prompt first asks the user to bet on the turtle based on their color the the turtles race with a random pace until they reach the end of the preset graphical frame 
