@@ -1,0 +1,1 @@
+# This is an old snake game done by the python turtle graphics library. It uses the arrows to move to the four directions to eat the food represented by the circle. There is a score notification  and if the snake touches the border or itself the game will be over. 
